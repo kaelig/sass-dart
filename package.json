@@ -1,0 +1,24 @@
+{
+  "name": "sass-dart",
+  "version": "1.0.0-alpha.1",
+  "description": "A port of Dart in Sass",
+  "main": "index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaelig/sass-dart.git"
+  },
+  "keywords": [
+    "dartlang",
+    "sass",
+    "dart"
+  ],
+  "author": "Kaelig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaelig/sass-dart/issues"
+  },
+  "homepage": "https://github.com/kaelig/sass-dart#readme"
+}
